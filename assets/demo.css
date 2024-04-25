@@ -1,0 +1,66 @@
+/* chrome, edge */
+*::-webkit-scrollbar-thumb {
+    background-color: #bfbfbf;
+    outline: none;
+    border-radius: 6px;
+}
+
+*::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+/* firefox */
+* {
+    scrollbar-width: thin;
+}
+
+
+.root-wrapper {
+    background: #f8f9fa;
+    padding: 20px 0;
+    min-height: 100vh;
+}
+
+.root-wrapper1 {
+    background: #f8f9fa;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.chat-wrapper {
+    background: white;
+    /* width: 45vw; */
+    border-radius: 12px;
+    margin: 0 auto;
+    padding: 20px
+}
+
+.chat-wrapper1 {
+    background: white;
+    height: 95vh;
+    /* width: 900px; */
+    border-radius: 12px;
+    margin: 0 auto;
+    padding: 20px
+}
+
+#chat-records {
+    height: 700px;
+    overflow-y: auto;
+    box-shadow: inset 0px 0px 5px 1px #dee2e6;
+    margin-bottom: 5px;
+    background: #f8f9fa;
+    outline: 1px solid #f1f3f5;
+}
+
+.chat-record-container {
+    background: white;
+    border-radius: 6px;
+    padding: 15px;
+    box-shadow: 0 2px 12px 0 rgb(0 0 0 / 10%);
+}
+
+.ant-message-custom-content {
+    max-width: 700px;
+}
