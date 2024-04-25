@@ -12,7 +12,7 @@
 
 - web应用开发主要采用Dash(基于flask和react)、feffery-antd-components(feffery老师封装的的ant design组件库)等，可以纯python迅速开发。
 
-- 后端大模型开发用langchain和chroma向量数据库，主要运用https://github.com/datawhalechina/llm-universe这个开源教程的相关知识。
+- 后端大模型开发用langchain和chroma向量数据库，主要运用  https://github.com/datawhalechina/llm-universe  这个datawhale开源教程的相关知识。
 
   ​
 
