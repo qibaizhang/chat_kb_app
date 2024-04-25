@@ -1,6 +1,6 @@
 <p align="center">
 
-![jiemian](caches\jiemian.png)</p>
+![jiemian](caches/jiemian.png)</p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">大模型对话知识库v0.0.1</h1>
 <h4 align="center">基于Dash+langchain开发的接入ai大模型api的知识库对话</h4>
 
