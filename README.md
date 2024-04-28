@@ -14,6 +14,8 @@
 
 - 后端大模型开发用langchain和chroma向量数据库，主要运用  https://github.com/datawhalechina/llm-universe  这个datawhale开源教程的相关知识。
 
+- 详细介绍可以看看这里 https://mp.weixin.qq.com/s/DiK_2QDEPU49useOuuY5aQ
+
   ​
 
 ## 主要功能
